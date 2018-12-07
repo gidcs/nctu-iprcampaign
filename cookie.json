@@ -1,0 +1,6 @@
+{
+    "cookies": [
+        { "name": "csrftoken", "value": "" },
+        { "name": "sessionid", "value": "" }
+    ]
+}
